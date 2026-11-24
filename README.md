@@ -49,4 +49,4 @@ python -m pytest tests
 
 Blott, S.J. & Pye, K. (2001). GRADISTAT: a grain size distribution and statistics package for the analysis of unconsolidated sediments. *Earth Surface Processes and Landforms* 26, 1237–1248.
 
-GRADISTAT és obra de Simon J. Blott (Kenneth Pye Associates Ltd.). Aquesta app reimplementa els seus mètodes; si la feu pública, citeu l'article i comenteu-ho amb l'autor.
+GRADISTAT és obra de Simon J. Blott (Kenneth Pye Associates Ltd.). Aquesta app reimplementa els seus mètodes; si la feu pública, citeu l'article.
